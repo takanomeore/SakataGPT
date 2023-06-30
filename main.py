@@ -10,8 +10,6 @@ TOKEN = 'Your DiscordBOT TOKEN KEY'
 # OpenAI
 openai.api_key = "Your OpenAI API KEY"
 
-#dockerID = b567be1ac9d9
-
 intents = discord.Intents.default()
 intents.typing = False
 intents.reactions = True
